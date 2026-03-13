@@ -1,7 +1,8 @@
 # NumPy DataLab
+NumPy DataLab
 
-A mini numerical computing and ML preprocessing toolkit built using NumPy.
-
+A data preprocessing toolkit demonstrating how datasets are prepared
+for machine learning pipelines using NumPy.
 ## Features
 
 - Dataset generation
@@ -37,4 +38,7 @@ requirements.txt
 
 ## Purpose
 
-This project demonstrates core NumPy operations used in machine learning and data science pipelines.
+NumPy DataLab
+
+A data preprocessing toolkit demonstrating how datasets are prepared
+for machine learning pipelines using NumPy.
